@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+}
+.top{
+  height: 50px;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+align-items: center;
+background-color:#00819d ;
+display: flex;
+padding: 2px;
+color: white;
+}
+.navbar{
+  height: 100px;
+  width: 95%;
+  margin: auto;
+  border: 1px solid gray;
+  border-top: transparent;
+  border-right: transparent;
+  border-left: transparent;
+
+  display: flex;
+
+}
+.navbar>div>img{
+  height: 40px;
+  width: 100px;
+  margin-top: 25px;
+}
+.navbar>div>input{
+  height: 50px;
+  border: 1px solid gray;
+width: 700px;
+margin-left: 30px;
+margin-top:25px ;
+margin-left:200px ;
+}
+.navbar>div>p{
+  margin-top:30px ;
+  margin-left: 40px;
+}
+
+
+.opt{
+  height: 50px;
+  background-color:transparent ;
+  width: 100px;
+  margin-top: 10px;
+}
+.navbar1{
+  display: flex;
+justify-content: space-around;
+margin-top: 20px;
+}
+.signin{
+  font-weight: bold;
+  font-size: 25px;
+  margin-top:20px ;
+  font-family:san;
+}
+.signin>input{
+  background-color:transparent ;
+  font-size: 18px;
+  color:white;
+  padding: 10px;
+  border:                                                                                                                                                                                                                                              ;
+}
+.signin>input:hover{
+  
+
+}
