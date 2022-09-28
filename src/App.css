@@ -60,14 +60,16 @@ margin-top: 20px;
   margin-top:20px ;
   font-family:san;
 }
-.signin>input{
+.signin>button{
   background-color:transparent ;
   font-size: 18px;
-  color:white;
+  color:black;
   padding: 10px;
-  border:                                                                                                                                                                                                                                              ;
+  border:1px solid gray   ;  
+  margin-top :10px                                                                                                                                                                                                                                        ;
 }
-.signin>input:hover{
-  
+.signin>button:hover{
+  background-color:#00819d ;
+color: white;
 
 }
